@@ -1,0 +1,7 @@
+#Sat Dec 16 14:45:18 IST 2023
+base.0=C\:\\Users\\pappu\\OneDrive\\Documents\\internship\\final_media_player\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=C\:\\Users\\pappu\\OneDrive\\Documents\\internship\\final_media_player\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

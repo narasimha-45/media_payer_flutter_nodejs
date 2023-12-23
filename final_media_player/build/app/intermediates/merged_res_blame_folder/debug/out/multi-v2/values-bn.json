@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.final_media_player.app-mergeDebugResources-12:/values-bn/values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pappu\\.gradle\\caches\\transforms-3\\d9a7bda5b0a0d2fc08828ff145bfcb70\\transformed\\core-1.9.0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "814",
+                        "endColumns": "100",
+                        "endOffsets": "910"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pappu\\.gradle\\caches\\transforms-3\\98211325724c98e4e72cf2943cba61bf\\transformed\\jetified-exoplayer-core-2.18.7\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,189,256,322,397,464,596,725",
+                        "endColumns": "67,65,66,65,74,66,131,128,88",
+                        "endOffsets": "118,184,251,317,392,459,591,720,809"
+                    }
+                }
+            ]
+        }
+    ]
+}

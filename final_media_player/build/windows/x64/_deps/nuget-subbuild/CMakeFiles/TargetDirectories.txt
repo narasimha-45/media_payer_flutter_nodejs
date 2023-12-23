@@ -1,0 +1,3 @@
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate.dir
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/ZERO_CHECK.dir

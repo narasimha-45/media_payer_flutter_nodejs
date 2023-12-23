@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/3939c834610886cd5efc326df5c6844b/nuget-populate.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/8da84acaec34d7d2cdcd3a9ca188de7b/nuget-populate-complete.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-build.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-configure.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-copyfile.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-download.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-install.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-mkdir.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-patch.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-test.rule
+C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/0df80f3d4b8c4482e76782f1d40c79f0/nuget-populate-update.rule

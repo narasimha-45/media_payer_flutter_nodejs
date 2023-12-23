@@ -1,0 +1,10 @@
+^C:\USERS\PAPPU\ONEDRIVE\DOCUMENTS\INTERNSHIP\MEDIA_PLAYER\FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\A0285FED86930602BAA508EEAEFC256A\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

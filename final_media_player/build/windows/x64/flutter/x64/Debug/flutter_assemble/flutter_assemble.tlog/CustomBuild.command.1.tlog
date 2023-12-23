@@ -1,0 +1,28 @@
+^C:\USERS\PAPPU\ONEDRIVE\DOCUMENTS\INTERNSHIP\MEDIA_PLAYER\FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\F623F4F1BF3E97A6F0F762603C2D9B4E\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\Users\pappu\OneDrive\Documents\internship\media_player\frontend FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\pappu\OneDrive\Documents\internship\media_player\frontend\windows\flutter\ephemeral PROJECT_DIR=C:\Users\pappu\OneDrive\Documents\internship\media_player\frontend FLUTTER_TARGET=C:\Users\pappu\OneDrive\Documents\internship\media_player\frontend\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC83NGQxNjYyN2I5NDBiYjE1ZTUwODkxZjgyY2FkNmMzZTM0NjViZDZkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\pappu\OneDrive\Documents\internship\media_player\frontend\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAPPU\ONEDRIVE\DOCUMENTS\INTERNSHIP\MEDIA_PLAYER\FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\A332F6B84845BA469F8938F4BCC1F8C5\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PAPPU\ONEDRIVE\DOCUMENTS\INTERNSHIP\MEDIA_PLAYER\FRONTEND\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/windows -BC:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64 --check-stamp-file C:/Users/pappu/OneDrive/Documents/internship/media_player/frontend/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
